@@ -3,3 +3,10 @@ div#test {
 	width: 500px;
 	box-shadow: 0 0 1px #df071c;
 }
+
+p#mainbody {
+	color:#ffffff;
+	text-shadow: 0 1px 0 #cccccc;
+	font-size: 12px;
+	font-family: "helvetica", "arial", "sans-serif";
+}
